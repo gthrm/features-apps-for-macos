@@ -6,7 +6,7 @@ iTerm2 является заменой Терминала и преемнико�
 > Еще более удобное дополнение - Zsh prompt - **[spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)**
 > Шрифт с символами  **[FiraCode](https://github.com/tonsky/FiraCode)**
 
-2. **[spectacleApp](https://www.spectacleapp.com/)**
+2. **[SpectacleApp](https://www.spectacleapp.com/)**
 Приложение для быстрого и ровного ресайзинга окон на рабочем столе
 
 3. **[Transporter](https://apps.apple.com/ru/app/transporter/id1450874784?mt=12)**
