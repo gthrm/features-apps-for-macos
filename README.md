@@ -36,3 +36,25 @@ iTerm2 является заменой Терминала и преемнико�
 8. **[responsively.app](https://responsively.app/)**
 
 Приложение для дебагинга UI на различных размерах экрана
+
+9. **[VS Code](https://code.visualstudio.com/) Extension**
+
+- [todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+![todo-tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
+
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+
+![vscode-styled-components](https://github.com/styled-components/vscode-styled-components/raw/master/demo.png)
+
+- [polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
+
+![polacode](https://github.com/octref/polacode/raw/master/demo/usage.gif)
+
+- [code-spell-checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+![code-spell-checker](https://raw.githubusercontent.com/streetsidesoftware/vscode-spell-checker/master/packages/client/images/example.gif)
+
+- [color-highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+
+- [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
