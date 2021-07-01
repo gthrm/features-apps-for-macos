@@ -58,3 +58,8 @@ iTerm2 является заменой Терминала и преемнико�
 - [color-highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
 - [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+
+10. **[1Password](https://1password.com/ru/)**
+
+Приложение для хранения и генерации паролей.
+Платное ($4 monthly), но удобно
