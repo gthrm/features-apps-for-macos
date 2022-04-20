@@ -89,7 +89,7 @@ iTerm2 является заменой Терминала и преемнико�
 
 ![ohmyz](https://ohmyz.sh/img/themes/eastwood.jpg)
 
-- [Fast install there](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
+- [Fast install here](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
 
 14. Two Github accounts on one machine
 
