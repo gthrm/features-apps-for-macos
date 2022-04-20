@@ -43,9 +43,9 @@ iTerm2 является заменой Терминала и преемнико�
 
 ![todo-tree](https://raw.githubusercontent.com/Gruntfuggly/todo-tree/master/resources/screenshot.png)
 
-- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
 
-![vscode-styled-components](https://github.com/styled-components/vscode-styled-components/raw/master/demo.png)
+![vscode-styled-components](https://github.com/styled-components/vscode-styled-components/raw/HEAD/demo.gif)
 
 - [polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 
@@ -59,7 +59,45 @@ iTerm2 является заменой Терминала и преемнико�
 
 - [vscode-markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-10. **[1Password](https://1password.com/ru/)**
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces)
+
+10. **VS Code Themes**
+
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
+
+![One Dark Pro](https://cdn.jsdelivr.net/gh/binaryify/onedark-pro/screenshots/normal.png)
+
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+
+![Dracula Official](https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png)
+
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+
+![GitHub Theme](https://user-images.githubusercontent.com/378023/132220037-3cd3e777-55a6-445f-9a2e-da6020ebd78d.png)
+
+11. **[1Password](https://1password.com/ru/)**
 
 Приложение для хранения и генерации паролей.
-Платное ($4 monthly), но давольно удобное.
+Платное ($4 monthly), но давольно удобное (пока работает оплата через Apple Subscriptions).
+
+12. My Own [Wire Guard](https://www.wireguard.com) VPN Server base on ubuntu 18.4
+
+- [wireguard](https://www.wireguard.com)
+- [script](https://gist.github.com/gthrm/fcf39fc0cc06f47047cd8e7640eff573)
+
+13. [Oh My Zsh](https://ohmyz.sh)
+
+![ohmyz](https://ohmyz.sh/img/themes/eastwood.jpg)
+
+- [Fast install there](https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95)
+
+14. Two Github accounts on one machine
+
+- [solution](https://gist.github.com/oanhnn/80a89405ab9023894df7)
+
+15. [Neovim](https://neovim.io)
+
+- [Installing Neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+- [neovim config](https://gist.github.com/gthrm/1768241930408671f4bc7db99d800656)
+
+![Neovim](https://pbs.twimg.com/media/FGXYONqX0AUxA0e?format=jpg&name=large)
