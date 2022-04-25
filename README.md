@@ -108,3 +108,7 @@ iTerm2 является заменой Терминала и преемнико�
 - [neovim config](https://gist.github.com/gthrm/1768241930408671f4bc7db99d800656)
 
 ![Neovim](https://pbs.twimg.com/media/FGXYONqX0AUxA0e?format=jpg&name=large)
+
+16. VSCode Snippets
+
+- [snippets-to-vscode](https://github.com/gthrm/my-snippets-to-vscode)
