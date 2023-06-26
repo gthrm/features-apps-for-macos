@@ -112,3 +112,7 @@ iTerm2 является заменой Терминала и преемнико�
 16. VSCode Snippets
 
 - [snippets-to-vscode](https://github.com/gthrm/my-snippets-to-vscode)
+
+17. [Fliqlo Screensaver](https://fliqlo.com/screensaver/)
+
+![Fliqlo](https://fliqlo.com/images/mobileapp.jpg)
