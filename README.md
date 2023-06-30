@@ -1,44 +1,44 @@
-# Приложения для MacOS, которые облегчат жизнь разработчика
+# MacOS Apps to Simplify the Life of a Developer
 
 1. **[iTerm2](https://www.iterm2.com/)**
 
-iTerm2 является заменой Терминала и преемником iTerm. Работает на Mac с macOS 10.12 или новее.
-> Удобное дополнение - подсветка синтаксиса **[zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)**
+iTerm2 is a Terminal replacement and the successor to iTerm. It works on Mac with macOS 10.12 or newer.
+> A handy addition - syntax highlighting **[zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)**
 
-> Еще более удобное дополнение - Zsh prompt - **[spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)**
+> An even more convenient add-on - Zsh prompt - **[spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)**
 
-> Шрифт с символами  **[FiraCode](https://github.com/tonsky/FiraCode)**
+> Font with symbols  **[FiraCode](https://github.com/tonsky/FiraCode)**
 
 - Keys
 ![keys](https://cloud.cdroma.ru/upload/855a008f-9d71-48fd-bf14-e1d0c1bffd46-1650458070095.png)
 
 2. **[SpectacleApp](https://www.spectacleapp.com/)**
 
-Приложение для быстрого и ровного ресайзинга окон на рабочем столе
+An application for quick and neat window resizing on the desktop.
 
 3. **[Transporter](https://apps.apple.com/ru/app/transporter/id1450874784?mt=12)**
 
-Приложение для быстрой загрузки .ipa в AppStore
+An application for fast uploading of .ipa to the AppStore.
 
 4. **[PixelPerfect](http://pixelperfect-app.com/)**
 
-Приложение для наложения картинки-макета поверх страницы для Pixelperfect-верстки
+An application for overlaying a mockup image over the page for Pixelperfect-layout.
 
 5. **[Postman](https://www.postman.com/)**
 
-Думаю все знаю, но на всякий случай... приложение для работы (отладки, тестирования и др.) с API
+I think everyone knows, but just in case... an application for working (debugging, testing, etc.) with API.
 
 6. **[Postwoman](https://postwoman.io/)**
 
-Почти то же, что и Postman, но в web
+Almost the same as Postman, but in web.
 
 7. **[docker-openvpn](https://github.com/kylemanna/docker-openvpn/)**
 
-Создай свой VPN
+Create your VPN.
 
 8. **[responsively.app](https://responsively.app/)**
 
-Приложение для дебагинга UI на различных размерах экрана
+An application for UI debugging at different screen sizes.
 
 9. **[VS Code](https://code.visualstudio.com/) Extension**
 
@@ -84,8 +84,8 @@ iTerm2 является заменой Терминала и преемнико�
 
 11. **[1Password](https://1password.com/ru/)**
 
-Приложение для хранения и генерации паролей.
-Платное ($4 monthly), но давольно удобное (пока работает оплата через Apple Subscriptions).
+An application for storing and generating passwords.
+Paid ($4 monthly), but pretty convenient (while payment through Apple Subscriptions is still functioning).
 
 12. My Own [Wire Guard](https://www.wireguard.com) VPN Server base on ubuntu 18.4
 
@@ -116,3 +116,11 @@ iTerm2 является заменой Терминала и преемнико�
 17. [Fliqlo Screensaver](https://fliqlo.com/screensaver/)
 
 ![Fliqlo](https://fliqlo.com/images/mobileapp.jpg)
+
+18. [repack](https://github.com/gthrm/homebrew-repack)
+
+- Repack is a shell script that allows repackaging of the node_modules in any JavaScript project, providing the option to use either npm or yarn for package management.
+
+19. [nmclear](https://github.com/gthrm/homebrew-nmclear)
+
+- Bash script that traverses all subdirectories within the current directory, finds node_modules directories, and offers to delete them to save space.
