@@ -124,3 +124,8 @@ Paid ($4 monthly), but pretty convenient (while payment through Apple Subscripti
 19. [nmclear](https://github.com/gthrm/homebrew-nmclear)
 
 - Bash script that traverses all subdirectories within the current directory, finds node_modules directories, and offers to delete them to save space.
+
+20. [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+
+- Controls your external display brightness and volume and shows native OSD. Use menubar extra sliders or the keyboard, including native Apple keys!
+
